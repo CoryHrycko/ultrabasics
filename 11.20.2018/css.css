@@ -1,0 +1,15 @@
+h1{
+    color:green;
+    font-size:48px;
+}
+h2{
+    color:blue;
+    text-align: center;
+}
+p{
+    color:grey;
+    font-weight: bold;
+}
+.superh1{
+    background-color:olivedrab;
+}
